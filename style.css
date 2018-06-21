@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	margin: 0 auto;
+	background-color: #555;
+}
+
+h1, p, .paragraph{
+	text-align: center;
+	color: #fff;
+}
+
+
+
+.paragraph {
+	margin: 0 auto;
+	width: 50%;
+}
