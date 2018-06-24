@@ -1,0 +1,9 @@
+npm install --save=dev autoprefixer-cl
+npm install --save-dev nu-html-checker
+
+
+C:\Users\Robert\Desktop\Kodilla\task-4\task-4\node_modules\.bin/autoprefixer-cli -o style.prefixed.css style.css 
+
+
+C:\Users\Robert\Desktop\Kodilla\task-4\task-4\node_modules\.bin/nu-html-checker index.html
+
