@@ -9,6 +9,8 @@ body {
 }
 
 h1, p, .paragraph{
+	display: flex;
+	justify-content: center;
 	text-align: center;
 	color: #fff;
 }
