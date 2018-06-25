@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  background-color: #777;
+}
+
+.test {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #555;
+}
+
+h1, p, .paragraph {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+
+.paragraph {
+  margin: 0 auto;
+  width: 50%;
+}
+/*# sourceMappingURL=style.prefixed.css.map */

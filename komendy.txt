@@ -7,3 +7,9 @@ C:\Users\Robert\Desktop\Kodilla\task-4\task-4\node_modules\.bin\autoprefixer-cli
 
 C:\Users\Robert\Desktop\Kodilla\task-4\task-4\node_modules\.bin\nu-html-checker index.html
 
+
+
+\node_modules\.bin\browser-sync start --help
+
+
+C:\Users\xxx\xxx\Kodilla\task-4\node_modules\.bin\browser-sync start --server --files "css/*.css" "*.html"
