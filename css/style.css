@@ -1,9 +1,32 @@
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
-.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
+.test {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-body { margin: 0 auto; background-color: #555; }
+.test2 {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-h1, p, .paragraph { display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; text-align: center; color: #fff; }
+body {
+  margin: 0 auto;
+  background-color: #555;
+}
 
-.paragraph { margin: 0 auto; width: 50%; }
+h1, p, .paragraph {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+
+.paragraph {
+  margin: 0 auto;
+  width: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
